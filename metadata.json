@@ -1,0 +1,6 @@
+{
+  "name": "Alagza",
+  "description": "An ultra-premium futuristic AI educational assistant providing smart doubt solving, textbook scanning, vocal teaching, MCQs, and offline tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
